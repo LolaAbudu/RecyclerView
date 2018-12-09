@@ -1,0 +1,4 @@
+#Sun Dec 09 17:02:16 EST 2018
+base.0=/Users/lolaabudu/android-fundamentals-apps-v2/RecyclerView/app/build/intermediates/transforms/dexMerger/debug/10
+path.0=classes.dex
+renamed.0=classes.dex
